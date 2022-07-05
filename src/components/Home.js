@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.png";   
+import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -22,10 +22,10 @@ const Home = () => {
             I'm a Full Stack Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Full Stack Web Developer with experience and extensive education in software design and application development. 
-            Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. 
-            Experienced with cutting-edge development tools and procedures. 
-            Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+          Full Stack Web Developer with experience and extensive education in software design and application development. 
+          Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. 
+          Experienced with cutting-edge development tools and procedures. 
+          Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
           </p>
 
           <div className="portfolio-btn">

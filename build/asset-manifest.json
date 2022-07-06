@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.96e30e27.css",
+    "main.js": "/react-portfolio/static/js/main.f66c2b6d.js",
+    "static/media/recipe.jpg": "/react-portfolio/static/media/recipe.10fef9c34fa7ddeb7c7f.jpg",
+    "static/media/pizza.jpg": "/react-portfolio/static/media/pizza.47ceab5936f18dd6be09.jpg",
+    "static/media/rodde.jpg": "/react-portfolio/static/media/rodde.68b8214abf37ebb279de.jpg",
+    "static/media/heroImage.png": "/react-portfolio/static/media/heroImage.57ee7870a02102eb0b0f.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.a4679ee35e306a51f549.pdf",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/react-portfolio/static/media/express.1182731d0fa4994589eb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.96e30e27.css.map": "/react-portfolio/static/css/main.96e30e27.css.map",
+    "main.f66c2b6d.js.map": "/react-portfolio/static/js/main.f66c2b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e30e27.css",
+    "static/js/main.f66c2b6d.js"
+  ]
+}

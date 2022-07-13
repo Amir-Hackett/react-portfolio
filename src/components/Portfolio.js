@@ -2,6 +2,9 @@ import React from "react";
 import roddeit from "../assets/portfolio/rodde.jpg";
 import recipe from "../assets/portfolio/recipe.jpg";
 import pizza from "../assets/portfolio/pizza.jpg";
+import deepThought from "../assets/portfolio/deepThought.jpg";
+import noteTaker from "../assets/portfolio/noteTaker.jpg";
+import password from "../assets/portfolio/password.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -22,6 +25,24 @@ const Portfolio = () => {
       src: pizza,
       link: 'https://amhpizza.herokuapp.com/',
       repo: 'https://github.com/Amir-Hackett/pizza-hunt'
+    },
+    {
+      id: 4,
+      src: deepThought,
+      link: 'https://ah-deep-thoughts.herokuapp.com/',
+      repo: 'https://github.com/Amir-Hackett/deep-thoughts'
+    },
+    {
+      id: 5,
+      src: noteTaker,
+      link: 'https://ahackett-note-taker.herokuapp.com/',
+      repo: 'https://github.com/Amir-Hackett/note-taker'
+    },
+    {
+      id: 6,
+      src: password,
+      link: 'https://amir-hackett.github.io/password-generator/',
+      repo: 'https://github.com/Amir-Hackett/password-generator'
     },
   ];
 

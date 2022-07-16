@@ -3,8 +3,9 @@ import roddeit from "../assets/portfolio/rodde.jpg";
 import recipe from "../assets/portfolio/recipe.jpg";
 import pizza from "../assets/portfolio/pizza.jpg";
 import deepThought from "../assets/portfolio/deepThought.jpg";
+import bookSearch from "../assets/portfolio/book-search.jpg";
 import noteTaker from "../assets/portfolio/noteTaker.jpg";
-import password from "../assets/portfolio/password.jpg";
+
 
 const Portfolio = () => {
   const portfolios = [
@@ -34,15 +35,15 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: noteTaker,
-      link: 'https://ahackett-note-taker.herokuapp.com/',
-      repo: 'https://github.com/Amir-Hackett/note-taker'
+      src: bookSearch,
+      link: 'https://github.com/Amir-Hackett/book-search',
+      repo: 'https://ah-book-search.herokuapp.com/'
     },
     {
       id: 6,
-      src: password,
-      link: 'https://amir-hackett.github.io/password-generator/',
-      repo: 'https://github.com/Amir-Hackett/password-generator'
+      src: noteTaker,
+      link: 'https://ahackett-note-taker.herokuapp.com/',
+      repo: 'https://github.com/Amir-Hackett/note-taker'
     },
   ];
 

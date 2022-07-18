@@ -36,8 +36,8 @@ const Portfolio = () => {
     {
       id: 5,
       src: bookSearch,
-      link: 'https://github.com/Amir-Hackett/book-search',
-      repo: 'https://ah-book-search.herokuapp.com/'
+      link: 'https://ah-book-search.herokuapp.com/',
+      repo: 'https://github.com/Amir-Hackett/book-search'
     },
     {
       id: 6,

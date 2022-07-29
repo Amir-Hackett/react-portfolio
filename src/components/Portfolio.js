@@ -1,49 +1,48 @@
 import React from "react";
+import ogsnkrs from "../assets/portfolio/og-snkrs.jpg";
 import roddeit from "../assets/portfolio/rodde.jpg";
 import recipe from "../assets/portfolio/recipe.jpg";
 import pizza from "../assets/portfolio/pizza.jpg";
 import deepThought from "../assets/portfolio/deepThought.jpg";
 import bookSearch from "../assets/portfolio/book-search.jpg";
-import noteTaker from "../assets/portfolio/noteTaker.jpg";
-
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      src: ogsnkrs,
+      link: 'https://og-snkrs.herokuapp.com/',
+      repo: 'https://github.com/Amir-Hackett/OG-SNKRS'
+    },
+    {
+      id: 2,
       src: roddeit,
       link: 'https://rodde-it.herokuapp.com/',
       repo: 'https://github.com/Amir-Hackett/rodde-it'
     },
     {
-      id: 2,
+      id: 3,
       src: recipe,
       link: 'https://amir-hackett.github.io/RecipEZ/',
       repo: 'https://github.com/Amir-Hackett/RecipEZ'
     },
     {
-      id: 3,
+      id: 4,
       src: pizza,
       link: 'https://amhpizza.herokuapp.com/',
       repo: 'https://github.com/Amir-Hackett/pizza-hunt'
     },
     {
-      id: 4,
+      id: 5,
       src: deepThought,
       link: 'https://ah-deep-thoughts.herokuapp.com/',
       repo: 'https://github.com/Amir-Hackett/deep-thoughts'
     },
     {
-      id: 5,
+      id: 6,
       src: bookSearch,
       link: 'https://ah-book-search.herokuapp.com/',
       repo: 'https://github.com/Amir-Hackett/book-search'
-    },
-    {
-      id: 6,
-      src: noteTaker,
-      link: 'https://ahackett-note-taker.herokuapp.com/',
-      repo: 'https://github.com/Amir-Hackett/note-taker'
     },
   ];
 

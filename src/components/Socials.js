@@ -8,9 +8,9 @@ const Socials = () => {
   const links = [
     {
       id: 1,
-      child: (
+      child: (   
         <>
-          LinkedIn <FaLinkedin size={30} />
+          LinkedIn <FaLinkedin size={30} /> 
         </>
       ),
       href: "https://www.linkedin.com/in/amir-hackett/",

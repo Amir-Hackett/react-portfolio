@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import book from "../../Assets/Projects/book-search.jpg";
 import note from "../../Assets/Projects/noteTaker.jpg";
 import snkrs from "../../Assets/Projects/og-snkrs.jpg";
-import password from "../../Assets/Projects/password.jpg";
+import employee from "../../Assets/Projects/employee.png";
 import pizza from "../../Assets/Projects/pizza.jpg";
 import recipe from "../../Assets/Projects/recipe.jpg";
 
@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={password}
+              imgPath={book}
               isBlog={false}
               title="Book Search"
               description="A MERN stack application using Google Books API that allows a user to login, search books and save favorites."
@@ -34,7 +34,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={recipe}
+              imgPath={note}
               isBlog={false}
               title="Note Taker"
               description="An Express.js application for taking notes."
@@ -56,12 +56,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={book}
+              imgPath={employee}
               isBlog={false}
-              title="Password Generator"
-              description="Website used to Generate a Unique password with a minimum of 8 characters and a maximum of 128."
-              ghLink="https://github.com/Amir-Hackett/password-generator"
-              demoLink="https://amir-hackett.github.io/password-generator/"
+              title="Employee Tracker"
+              description="A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL"
+              ghLink="https://github.com/Amir-Hackett/employee-tracker"
+              demoLink="https://github.com/Amir-Hackett/employee-tracker#video-description"
             />
           </Col>
 
@@ -78,7 +78,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={note}
+              imgPath={recipe}
               isBlog={false}
               title="RecipEZ"
               description="An application that allows users to search for a recipe based on a recipe or a drink."

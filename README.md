@@ -8,4 +8,4 @@ This project is a single-page application using React.js to dynamically render c
 This application will allow users view an about me page, send information through a contact form, view my projects, and view my resume.<br>
 Please view deployed application on [Git Hub Pages](https://amir-hackett.github.io/react-portfolio/)<br>
 
-<img src="src/assets/Screen-Shot.png">
+<img src="src/assets/screen-shot.png">

@@ -72,7 +72,7 @@ function Projects() {
               title="Pizza Search"
               description="A self-aware riff on social-media applications that already exist for other topics—lets users connect with each other based on their love of pizza."
               ghLink='https://github.com/Amir-Hackett/pizza-hunt'
-              demoLink='https://amhpizza.herokuapp.com/'
+              demoLink='https://vast-beach-16114.herokuapp.com/'
             />
           </Col>
 

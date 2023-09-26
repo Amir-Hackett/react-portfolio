@@ -28,7 +28,7 @@ function Projects() {
               title="Book Search"
               description="A MERN stack application using Google Books API that allows a user to login, search books and save favorites."
               ghLink='https://github.com/Amir-Hackett/book-search'
-              demoLink='https://ah-book-search.herokuapp.com/'
+              demoLink='https://mern-book-convert-74118dbaeea8.herokuapp.com/'
             />
           </Col>
 
